@@ -1,0 +1,12 @@
+# import random
+
+# list = [1, 2, 3, 4]
+
+# print(list[random.randint(0, 3)])
+
+# if list[1]:
+#     print('Win!')
+# elif list[3]:
+#     print('Win!')
+# else:
+#     print('Lose')
