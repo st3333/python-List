@@ -1,8 +1,7 @@
-name = input("What is your name? ")
+import time
 
-print("Hello " + name + "!")
-age = input("How old are you? ")
-if age >= "18":
-    print("добро пожаловать!")
-else:
- print("доступ запрещен")
+
+
+time.sleep(2)
+print('PLz wait 2 seconds')
+print("HI FATHER")
